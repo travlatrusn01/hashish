@@ -8,4 +8,4 @@ Peer-to-peer hash cracking platform.
 
 ## Mockup Design
 
-<img width='420px' src='https://user-images.githubusercontent.com/29265684/31720482-0ad90772-b45a-11e7-8fa7-786f54f53176.png' />
+<img width='420px' src='https://user-images.githubusercontent.com/29265684/31720630-72ba26f0-b45a-11e7-97ff-249687f7b921.png' />

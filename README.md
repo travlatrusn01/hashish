@@ -1,6 +1,6 @@
 # hashish
 
-Peer-to-peer hash cracking platform.
+A peer-to-peer hash cracking platform.
 
 ## Introduction
 

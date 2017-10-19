@@ -17,4 +17,4 @@
 
 ## Advertising
 
-This is an open-source project, so all ads/banners will have to be submitted and hosted on this GitHub repo.
+This is an open-source project, so any ads/banners will have to be submitted and hosted on this GitHub repo.

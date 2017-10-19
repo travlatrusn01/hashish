@@ -1,24 +1,14 @@
 # Developers' Notes
 
-<table>
-  <thead>
-    <tr>
-      <td><b>Mockup Design</b></td>
-      <td><b>Dependencies</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img width='180' src='https://user-images.githubusercontent.com/29265684/31720630-72ba26f0-b45a-11e7-97ff-249687f7b921.png' /></td>
-      <td>
-        <ul>
-          <li>macchanger</li>
-          <li>macchanger</li>
-          <li>macchanger</li>
-          <li>macchanger</li>
-        </ul>
-      </td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+## Warnings and alerts
+
+#### Key Generator
+
+- When users select the (optional) **Pattern** option, warn them with a message that says it will significantly reduce the amount of password attempts, and that it should only be used if they are sure that this is your password's pattern.
+- When users select a certain password length, warn them by saying how long it **could** take based on previous records.
+
+## Exceptions
+
+#### Key Generator
+
+- **PatternMissingCharType** => Your pattern does not contain a #{chartype}.
